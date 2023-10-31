@@ -2,6 +2,6 @@
 # Generator token: 10BE3573-1514-4C36-9D1C-5A225CD40393
 
 cube <- function(x) {
-    .Call('_test_package_10_31_23_cube', PACKAGE = 'test.package.10.31.23', x)
+    .Call(`_test_package_10_31_23_cube`, x)
 }
 
